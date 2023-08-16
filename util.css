@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amaranth:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300&display=swap');
+.listyle{
+    list-style: none;
+}
+.lifont{
+    font-family: 'Anton', sans-serif;
+}
+.flex{
+    display: flex;
+}
+.justify-centre{
+    justify-content: center;
+}
+.align-centre{
+    align-items: center;
+}
+.space-bet{
+    justify-content: space-between;
+}
+.space-around{
+    justify-content: space-around;
+}
+
+.space-even{
+    justify-content: space-evenly;
+}
+.h1{
+    font-family: 'Dancing Script', cursive;
+}
+.h3{
+    font-family: 'Amaranth', sans-serif;
+}
+.p{
+    font-family: 'Raleway', sans-serif;
+}
+.text-centre{
+
+    text-align: center;
+}
+.relative{
+    position: relative;
+}
+.absolute{
+    position: absolute;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.white{
+    color: white;
+}
+.mt{
+    margin-top: 2vh;
+}
